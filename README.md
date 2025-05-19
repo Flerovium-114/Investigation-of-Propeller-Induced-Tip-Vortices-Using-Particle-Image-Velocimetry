@@ -1,0 +1,2 @@
+# PIV-On-Drone-Propellers---Course-Project---AM5090
+This repository contains information on my course project on the course AM5090 - Flow Visualization Techniques at IIT Madras. The project was focussed on performing a desktop scale PIV experiment with rotating propellers to compare the vortices due to a two-bladed and a three-bladed propeller. 
